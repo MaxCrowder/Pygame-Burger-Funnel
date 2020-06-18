@@ -1,2 +1,5 @@
 # Pygame-Burger-Funnel
-A 2-D game created with Python and Pygame
+
+I drew the assets and then created a game with Pygame. A quick easy to play fun game about catching burgers with a funnel. 
+
+<img src="screenshots/screenshot.png"></img>
